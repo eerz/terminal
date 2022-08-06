@@ -1,9 +1,9 @@
-var youtube = "https://www.youtube.com/fknight/";
+var youtube = "https://www.youtube.com/ckpioo/";
 var twitter = "https://www.twitter.com/forrestpknight/";
 var password = "fkcodes";
 var linkedin = "https://www.linkedin.com/in/forrestpknight/";
 var instagram = "https://www.instagram.com/forrestpknight/";
-var github = "https://github.com/forrestknight/";
+var github = "https://github.com/eerz/";
 var email = 'mailto:forrest@fkcodes.com';
 
 whois = [
@@ -25,11 +25,11 @@ whoami = [
 
 social = [
   "<br>",
-  'youtube        <a href="' + youtube + '" target="_blank">youtube/fknight' + "</a>",
+  'youtube        <a href="' + youtube + '" target="_blank">youtube/ckpioo' + "</a>",
   'twitter        <a href="' + twitter + '" target="_blank">twitter/forrestpknight' + '</a>',
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/forrestpknight' + "</a>",
   'instagram      <a href="' + instagram + '" target="_blank">instagram/forrestpknight' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/forrestknight' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/eerz' + "</a>",
   "<br>"
 ];
 
@@ -62,7 +62,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">ForrestKnight (FK) Not A Corporation. All knights reserved.</span>',
+  '<span class="index">ckpio (CK) Not A Corporation. All rights reserved.</span>',
   "         ___   ____",
   "       /' --;^/ ,-_\\     \\ | /       ",
   "      / / --o\\ o-\\ \\\\   --(_)--   ",
