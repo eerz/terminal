@@ -10,7 +10,7 @@ whois = [
   "<br>",
   "Hey, I'm six!👋",
   "I'm a block game player and a programmer 😎",
-  "I also make YouTube videos for minecraft hive / zeqa",
+  "I also make YouTube videos for minecraft hive/zeqa",
   "I have not graduated yet",
   "I'm still in my last year of high school",
   "This is one of my first ever projects",
