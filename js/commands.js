@@ -27,7 +27,7 @@ social = [
   "<br>",
   'youtube        <a href="' + youtube + '" target="_blank">youtube/ckpioo' + "</a>",
   'twitter        <a href="' + twitter + '" target="_blank">twitter/ywximc' + '</a>',
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/forrestpknight' + '</a>',
+  'instagram      <a href="' + instagram + '" target="_blank">instagram/ywximc' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/eerz' + "</a>",
   "<br>"
 ];
