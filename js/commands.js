@@ -1,10 +1,10 @@
 var youtube = "https://www.youtube.com/ckpioo/";
-var twitter = "https://www.twitter.com/forrestpknight/";
+var twitter = "https://www.twitter.com/ywximc/";
 var password = "fkcodes";
 var linkedin = "https://www.linkedin.com/in/forrestpknight/";
-var instagram = "https://www.instagram.com/forrestpknight/";
+var instagram = "https://www.instagram.com/ywximc/";
 var github = "https://github.com/eerz/";
-var email = 'mailto:forrest@fkcodes.com';
+var email = 'mailto:ywximc@gmail.com';
 
 whois = [
   "<br>",
@@ -26,8 +26,7 @@ whoami = [
 social = [
   "<br>",
   'youtube        <a href="' + youtube + '" target="_blank">youtube/ckpioo' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/forrestpknight' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/forrestpknight' + "</a>",
+  'twitter        <a href="' + twitter + '" target="_blank">twitter/ywximc' + '</a>',
   'instagram      <a href="' + instagram + '" target="_blank">instagram/forrestpknight' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/eerz' + "</a>",
   "<br>"
